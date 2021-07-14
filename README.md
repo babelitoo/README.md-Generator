@@ -12,6 +12,7 @@
 ## Description
   
 🔍 A node.js application that uses user input from inquirer to populate a README.md file for user repository.
+[Link to walkthrough video] (https://drive.google.com/file/d/1yEd9-DO14zxmfd-cjpmV-Te-BriOo0dd/view)
   
 💻 Below is the gif showing the functionality of the application:
 ![README Generator Gif](./assets/README-Generator.gif)
