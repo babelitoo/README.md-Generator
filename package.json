@@ -1,14 +1,21 @@
 {
-  "name": "static-site",
+  "name": "readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "node.js application that creates a professional readme based on user input criteria",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babelitoo/README.md-generator.git"
+  },
+  "author": "Gabriel Carrillo",
   "license": "ISC",
+  "homepage": "https://github.com/babelitoo/README.md-Generator",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0",
+    "util": "^0.12.3"
   }
 }
